@@ -1,0 +1,6 @@
+//You need have installed  node.js 
+npm init -y     //this is going to initialized your project
+npm i discord.js  
+npm i dotenv    //This is use to create so that we can connect out bot.js file with .env file
+npm i --dev-save nodemon  // This restart your application automatically every single time we make changes
+npm run devStart
